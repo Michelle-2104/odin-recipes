@@ -1,6 +1,7 @@
 body {background-color: cornsilk;
 
 
+
 }
 h1 {
     color: green;
@@ -11,15 +12,23 @@ h1 {
 
 }
 
-h2 {color: lightseagreen;
+h2 
+    {color: lightseagreen;
     font-weight: bold;
     font-size: medium;
 
 }
 
-p {
+p 
+    {color: turquoise;
+     font-size: small;
+             
 
 
 
 
-}
+    
+    
+    
+    
+    }
