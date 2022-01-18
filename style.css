@@ -5,11 +5,11 @@ body {background-color: cornsilk;
 }
 h1 {
     color: rgb(7, 160, 7);
-        
+     font-size: 50px;   
      }
 
  h2 {
-      font-size: 40px;
+      font-size: 30px;
       color: midnightblue;
 
  }    
@@ -21,7 +21,7 @@ p
 
 }
 
-ul
+ul, ol
     {color: mediumseagreen;
      font-size: 20px;
      
